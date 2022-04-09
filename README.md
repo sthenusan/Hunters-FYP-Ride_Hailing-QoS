@@ -2,6 +2,7 @@
 
 ## Motivation
 ## Problem Statement
+* Existing driver behaviour analysis only focuses on subjective analysis. There is no effective, realistic and objective performance measuring approach for driver behaviour using GPS data.
 ## Results
 
 
