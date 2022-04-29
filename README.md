@@ -19,9 +19,8 @@
 * Conference Paper on Driving Behaviour Analysis using Low Sampling GPS Trajectories of Ride-hailing Services for 5th IEEE DSIT Conference
 
 ## Conclusion
-* Driver Behaviour analysis is become an important  consideration in deciding the service quality of Ride
-hailing services.
-* Current driver ranking systems are  mainly based on the average star rating and customer complaints.
-* We have proposed a driver behaviour analysis model based on GPS data
+
+![image](https://user-images.githubusercontent.com/46936272/165879468-65dff1ce-1a38-44b7-8c23-4382fa81f92a.png)
+
 
 
