@@ -1,6 +1,11 @@
 # QoS Analysis in Ride Hailing Services
 
 ## Motivation
+* A huge amount of GPS  data, Trip Data is generated in ride-hailing services.
+* GPS data is available for all driver-partners, unlike complaints and ratings -fair method.
+* Safe/Unsafe driving is a highly important factor of QoS of a taxi driver.
+* Can be used in  determining deserving driver partners in reward programmes.
+
 ## Problem Statement
 * Existing driver behaviour analysis only focuses on subjective analysis. There is no effective, realistic and objective performance measuring approach for driver behaviour using GPS data.
 ## Results
