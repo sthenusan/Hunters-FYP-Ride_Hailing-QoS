@@ -10,9 +10,8 @@
 ![image](https://user-images.githubusercontent.com/46936272/165879384-8ff9672a-a274-466b-9983-9263abbb9c69.png)
 
 ## Results
-* GPS Data Based Novel Ranking Model for Drivers in Ride Hailing Services
-* Globally Usable HMM based  Map Matching Algorithm
-* Conference Paper on Driving Behaviour Analysis using Low Sampling GPS Trajectories of Ride-hailing Services for 5th IEEE DSIT Conference
+![image](https://user-images.githubusercontent.com/46936272/165880154-2d9859aa-2cfb-444e-b029-ecd453ea2c89.png)
+
 
 ## Conclusion
 
